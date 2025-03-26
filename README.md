@@ -15,3 +15,8 @@ Apple ID 管理系统
 
 配置导入/导出：可以导出当前配置或导入之前保存的配置文件，实现配置的备份和跨设备迁移。​​
 
+下载链接：
+
+https://github.com/Daniel-Wu-1/Apple-ID-management-system/releases/download/%E8%8B%B9%E6%9E%9Cid%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/id.exe
+
+联系飞机telegram[@jiutong9999](https://t.me/jiutong9999)
